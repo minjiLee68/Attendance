@@ -18,6 +18,7 @@ public class Controller {
 
 	int stNumber, deNumber;
 	String name, birth, phNumber;
+	int minji;
 
 	public int inputNumber() {
 		return sc.nextInt();
